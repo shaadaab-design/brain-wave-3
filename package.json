@@ -1,0 +1,23 @@
+{
+  "name": "brainwave-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "recharts": "^2.6.2",
+    "papaparse": "^5.3.2",
+    "fft.js": "^4.0.0",
+    "file-saver": "^2.0.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
